@@ -1,0 +1,51 @@
+body{
+
+background-image: url(images/3.jpg);
+background-size: 100%;
+}
+.photo_bike{
+	width: 600px;
+	height: 360px;
+	margin-left: 300px;
+}
+.opis{
+	font: menu;
+	font-size: 18px;
+	background-color: white;
+	width: 570px;
+	margin-left: 600px;
+	padding: 15px;
+}
+
+.frame{
+
+	background-color: white;
+	width: 580px;
+	height: 60px;
+	margin-left: 600px;
+	padding: 10px;
+}
+
+.botton{
+	display: inline;
+}
+
+.b1{
+	border: 1px solid #5997D0;
+	background-color: #5997D0;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	width: 80px;
+	margin-left: 150px;
+	margin-right: 100px;
+}
+.b2{
+	border: 1px solid #5997D0;
+	background-color: #5997D0;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	width: 80px;
+	margin-right: 20px;
+}
